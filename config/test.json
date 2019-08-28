@@ -1,0 +1,11 @@
+{
+  "fileName": "test.json",
+  "dbHost": "localhost",
+  "dbUser": "user",
+  "dbPass": "pass",
+  "dbCollection": "testDb",
+  "dbConnType": "mongodb",
+  "dbUriOpt": "",
+  "dbOptions": { "useNewUrlParser": true, "useUnifiedTopology": true }
+}
+

@@ -1,0 +1,10 @@
+{
+  "fileName": "prod.json",
+  "dbHost": "cluster0-w5rjh.gcp.mongodb.net",
+  "dbUser": "user",
+  "dbPass": "pass",
+  "dbCollection": "prodDb",
+  "dbConnType": "mongodb+srv",
+  "dbUriOpt": "?retryWrites=true&w=majority",
+  "dbOptions": { "useNewUrlParser": true, "useUnifiedTopology": true }
+}

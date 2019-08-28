@@ -1,1 +1,1 @@
-This is a RESTful API app with CRUD and unite tests 
+This is a basic RESTful API app with CRUD and unit tests 

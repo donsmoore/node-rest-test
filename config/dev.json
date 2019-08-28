@@ -1,0 +1,11 @@
+{
+  "fileName": "dev.json",
+  "dbHost": "localhost",
+  "dbUser": "user",
+  "dbPass": "pass",
+  "dbCollection": "devDb",
+  "dbConnType": "mongodb",
+  "dbUriOpt": "",
+  "dbOptions": { "useNewUrlParser": true, "useUnifiedTopology": true }
+}
+
